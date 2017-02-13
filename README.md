@@ -1,0 +1,4 @@
+# BaseScoreView
+简单评分星星demo
+将BaseScoreView.swift拖入项目
+viewController为使用demo
